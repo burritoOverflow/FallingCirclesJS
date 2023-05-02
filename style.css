@@ -1,4 +1,11 @@
 body {
-    height: 100vh;
-    background-color: black;
-};
+  height: 100vh;
+  background-color: black;
+}
+
+.span-circle {
+  border-radius: 50%;
+  height: 25px;
+  width: 25px;
+  position: absolute;
+}
